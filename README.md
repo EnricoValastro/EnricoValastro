@@ -1,0 +1,1 @@
+contex.bind("name", object)
