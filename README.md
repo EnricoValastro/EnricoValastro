@@ -1,1 +1,1 @@
-contex.bind("name", object)
+
